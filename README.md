@@ -1,4 +1,4 @@
-# Blog-Application
+# Blog-Application deployement link (https://blogapplication-387zo35n1-shashidhars-projects-289a0e56.vercel.app/)
 # Backend
 first i created all the required models(i.e for user and blog) and blog is connecte to user's _id for identification,
 then required routes for both blog and users are created,
